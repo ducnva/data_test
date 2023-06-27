@@ -1,0 +1,26 @@
+[
+    {
+        "heading": "XploR Studio",
+        "content": "",
+        "action": "https://xplor.studio/",
+        "target": "_blank"
+    },
+    {
+        "heading": "XploR Zone",
+        "content": "",
+        "action": "https://xplor.zone",
+        "target": "_blank"
+    },
+    {
+        "heading": "XploR Design",
+        "content": "",
+        "action": "https://xplor.design",
+        "target": "_blank"
+    },
+    {
+        "heading": "SoC.One",
+        "content": "",
+        "action": "https://www.soc.one",
+        "target": "_blank"
+    }
+]
